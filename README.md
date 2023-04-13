@@ -1,4 +1,4 @@
-# proj-la-pa
+# proj241-la-pa
 Add loongarch64 into PA experiments from Nanjing University.
 
 ## 项目名称
